@@ -12,12 +12,12 @@
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
             "required": true,
-            "value": ""
+            "value": "23308690"
         },
         "API_HASH": {
             "description": "قم بوضع الايبي هاش",
             "required": true,
-            "value": ""
+            "value": "0a64b7fb353afea42c8847bd5ae5c744"
         },
         "SESSION_STRING": {
             "description": "قم بوضع كود الجلسة بايروجرام 2.0",
